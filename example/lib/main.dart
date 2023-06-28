@@ -2,7 +2,7 @@ import 'dart:io';
 
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:omni_jitsi_meet/jitsi_meet.dart';
+import 'package:flutter_jitsi_meet/jitsi_meet.dart';
 
 void main() => runApp(MyApp());
 

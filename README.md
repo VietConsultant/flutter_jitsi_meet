@@ -1,4 +1,5 @@
-# omni_jitsi_meet
+# Clone from omni_jitsi_meet
+# flutter_jitsi_meet
 
 Jitsi Meet Plugin for Flutter. Supports Android, iOS, and Web platforms.
 

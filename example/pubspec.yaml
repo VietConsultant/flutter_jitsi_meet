@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  omni_jitsi_meet:
+  flutter_jitsi_meet:
     path: ../
   cupertino_icons: ^1.0.5
 
